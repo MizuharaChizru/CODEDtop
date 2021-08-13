@@ -16,13 +16,15 @@ It named CODEDtop and you'll get ```yourname```.coded.top and ```yourname```@cod
 ```javascript
 {
   name: "yourname",// your subdomain name
-  cname: "cname.short.io", // if cname available use this else
-  A: 190.163.16.16 , // use this
+  cname: "cname.short.io", // CNAME record
+  A: 190.163.16.16 , // your A record l
   email: "yourname" // youremail look like this yourname@coded.top
 }
 // I guess this is object in js.¯\_(ツ)_/¯ Idk I'm kinda sas with js bruh! Imma using this.. its easy to pick data from this.
 
 ```
+And mail it to [hello@coded.top](mailto:hello@coded.top)
+
 ## Can I use this for my blogger site?
 
 of course you can
