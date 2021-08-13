@@ -3,7 +3,7 @@
 ![Codeddottop](https://telegra.ph/file/704d098b56ebdbe781b96.png)
 ### Domain for devs
 
-#### Sup! front-end devs :) If  you looking sub domain for host your frontend site or host your portfolio/blog/test site/github page/blogger site/open source project here I have one.
+#### Sup! front-end devs :) If  you looking sub domain? great you're in right place.
 
 It named CODEDtop and you'll get ```yourname```.coded.top and ```yourname```@coded.top **Email**
 
@@ -23,6 +23,26 @@ It named CODEDtop and you'll get ```yourname```.coded.top and ```yourname```@cod
 // I guess this is object in js.¯\_(ツ)_/¯ Idk I'm kinda sas with js bruh! Imma using this.. its easy to pick data from this.
 
 ```
+## Can I use this for my blogger site?
+
+of course you can
+
+## What for this?
+
+- host your static website
+- for your DiscordBot
+- for your blog
+- for your portfolio
+- for your docs page
+- etc...
+
+## How can I use email?
+
+Goto [https://mail.coded.top](https://mail.coded.top) and login with provided credentials . Also you can use yandex Mail mobile app
+
+## Is this for one year?
+
+Nope , I'll renew this domain and appreciate **donations**
 
 And mail it to [hello@coded.top](mailto:hello@coded.top)
 
@@ -30,6 +50,9 @@ And mail it to [hello@coded.top](mailto:hello@coded.top)
 
 - This is manual process so appreciate your patience :)
 - Vercel/Netlify not supported :(
-- Blogger.com supported 
 - Prohibited to use for illegal things.
 
+
+# Support us
+
+<a href="https://www.buymeacoffee.com/Mizuhara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:40px" height="40px" ></a>
