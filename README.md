@@ -42,7 +42,7 @@ of course you can
 
 ## How can I use email?
 
-Goto [https://mail.coded.top](https://mail.coded.top) and login with provided credentials . Also you can use yandex Mail mobile app
+Goto [http://mail.coded.top](http://mail.coded.top) and login with provided credentials . Also you can use yandex Mail mobile app
 
 ## Is this for one year?
 
