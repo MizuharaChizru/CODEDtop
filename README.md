@@ -23,7 +23,7 @@ It named CODEDtop and you'll get ```yourname```.coded.top and ```yourname```@cod
 // I guess this is object in js.¯\_(ツ)_/¯ Idk I'm kinda sas with js bruh! Imma using this.. its easy to pick data from this.
 
 ```
-And mail it to [hello@coded.top](mailto:hello@coded.top)
+And mail it to [hello@coded.top](mailto:hello@coded.top) or Open issue and paste your code.
 
 ## Can I use this for my blogger site?
 
