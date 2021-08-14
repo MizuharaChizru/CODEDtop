@@ -38,7 +38,7 @@ of course you can
 - for your blog
 - for your portfolio
 - for your docs page
-- etc...
+- bla..bla...bla...
 
 ## How can I use email?
 
