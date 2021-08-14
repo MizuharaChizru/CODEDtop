@@ -46,9 +46,7 @@ Goto [http://mail.coded.top](http://mail.coded.top) and login with provided cred
 
 ## Is this for one year?
 
-Nope , I'll renew this domain and appreciate **donations**
-
-And mail it to [hello@coded.top](mailto:hello@coded.top)
+Nope , I'll renew this domain
 
 ### Note 
 
