@@ -3,7 +3,7 @@
 ![Codeddottop](https://telegra.ph/file/704d098b56ebdbe781b96.png)
 ### Domain for devs
 
-#### Sup! front-end devs :) If  you looking sub domain? great you're in right place.
+#### Sup! front-end devs :) If  you looking sub domain? great! you're in right place.
 
 It named CODEDtop and you'll get ```yourname```.coded.top and ```yourname```@coded.top **Email**
 
@@ -18,11 +18,10 @@ Copy this and fill it with your details
 ```javascript
 {
   name: "yourname",// your subdomain name
-  cname: "cname.short.io", // CNAME record
-  A: 190.163.16.16 , // your A record l
+  cname: "cname.short.io", /*or*/ A: 190.163.16.16 , // your CNAME record or A record
   email: "yourname" // youremail look like this yourname@coded.top
 }
-// I guess this is object in js.¯\_(ツ)_/¯ Idk I'm kinda sas at js bruh! Imma using this.. its easy to pick data from this.
+// I guess this is object in js.¯\_(ツ)_/¯ Idk I'm kinda sas at js bruh!
 
 ```
 And then mail it to [hello@coded.top](mailto:hello@coded.top) or **Open issue** and paste your code.
