@@ -22,7 +22,7 @@ Copy this and fill it with your details
   A: 190.163.16.16 , // your A record l
   email: "yourname" // youremail look like this yourname@coded.top
 }
-// I guess this is object in js.¯\_(ツ)_/¯ Idk I'm kinda sas with js bruh! Imma using this.. its easy to pick data from this.
+// I guess this is object in js.¯\_(ツ)_/¯ Idk I'm kinda sas at js bruh! Imma using this.. its easy to pick data from this.
 
 ```
 And then mail it to [hello@coded.top](mailto:hello@coded.top) or **Open issue** and paste your code.
