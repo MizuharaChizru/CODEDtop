@@ -56,4 +56,6 @@ Nope , I'll renew this domain
 
 # Support us
 
+## Fork this (Reach😌)
+
 <a href="https://www.buymeacoffee.com/Mizuhara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:40px" height="40px" ></a>
